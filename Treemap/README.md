@@ -7,15 +7,25 @@ replicate what a Treemap does in Java.
 The implementation has the following functions - 
 
   Size
+  
   Empty 
+  
   Insert
+  
   Remove 
+  
   Get 
-  Floor Key 
+  
+  Floor Key
+  
   Ceil Key 
-  Contains Key 
+  
+  Contains Key
+  
   Contains Value
+  
   MaxKey 
+  
   MinKey 
   
 More detailed explanations about all the functions are given in the code with
